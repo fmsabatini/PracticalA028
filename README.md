@@ -5,6 +5,7 @@ _Percorsi abilitanti per insegnanti - PF30/60 - A028 - Didattica della Biologia_
 
 PlantNet è una app gratuita che permette di scattare foto di piante vascolari, inviarle al server e ottenere una serie di nomi probabili, assieme ad una stima dell'accuratezza dell'osservazione. 
 E' una App messa a punto da un consorzio di centri di ricerca francesi, che si sostiene tramite le donazioni degli utenti.  
+
 PlantNet permette di:  
 
 - Creare un proprio erbario digitale georiferito online
@@ -62,5 +63,6 @@ In questa attività dovremo:
 2. Aprire la chiave semplificate [KeyToNature per le scuole: una guida interattiva ad alberi e arbusti](https://dryades.units.it/home/index.php?procedure=ext_key_home&key_id=3182&key_type=plants)
 3. Tentare l'identificazione della specie scelta tramite chiavi dicotomiche. Ovviamente può succedere di sbagliarsi. In tal caso, si torna allora al punto in cui si era in dubbio sull’opzione da scegliere e si prende l’altra.  
 4. Una volta arrivati al livello di specie, confrontare la soluzione suggerita con il cartellino della specie
+5. Discutere con un vicino delle difficoltà incontrate nel processo di identificazione. A turno mostrare il processo di identificazione della propria specie, e valutare criticamente le scelte fatte dall'altro\a  
 
 Occorre tenere conto che le chiavi dicotomiche contengono solo un subset delle specie esistenti, limitandosi solitamente alle sole specie locali o più comunemente coltivate. In un orto botanico potrebbero esserci specie rare e di altre regioni del pianeta, che come tali NON sono contenute nella chiave dicotomica scelta.  
