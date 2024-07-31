@@ -41,8 +41,9 @@ In questa attività dovremo:
 
 
 ## Attività 2 - Identificazione di una specie vegetale tramite Chiavi Dicotomiche (semplificate)  
-Identificare = attribuire il nome scientifico esatto ad un campione 
-La chiave dicotomica è uno schema a coppie di proposizioni contrapposte, basate sui caratteri morfologici (qualitativi e/o quantitativi), che serve a condurre l’utente all’identificazione dell’esemplare. Tramite le chiavi dicotomiche, si discriminano gruppi sempre piú piccoli, fino a giungere alla specie. La chiave obbliga l’utente a procedere per esclusione: se non è A, è B. Ovviamente può succedere di sbagliarsi. In tal caso, si torna allora al punto in cui si era in dubbio sull’opzione da scegliere e si prende l’altra.
+Identificare = attribuire il nome scientifico esatto ad un campione  
+
+Una chiave dicotomica è uno schema a coppie di proposizioni contrapposte, basate sui caratteri morfologici (qualitativi e/o quantitativi), che serve a condurre l’utente all’identificazione di un esemplare. Tramite le chiavi dicotomiche si discriminano gruppi sempre piú piccoli di specie candidate, fino a giungere al nome specifico corretto. La chiave obbliga l’utente a procedere per esclusione: se non è A, è B. 
 
 Un insieme di chiavi dicotomiche per la flora italiana sono disponibili sul sito [Dryades](https://dryades.units.it/home/index.php)
 
@@ -52,14 +53,14 @@ Un insieme di chiavi dicotomiche per la flora italiana sono disponibili sul sito
 
 All'interno c'è una grande selezione di chiavi dicotomiche con caratteristiche diverse. La più completa è quella del progetto [Strumento di identificazione delle piante vascolari per gli studenti del Corso di Botanica Sistematica all’Università di Trieste](https://dryades.units.it/home/index.php?procedure=ext_key_home&key_type=plants&key_id=13581). Si tratta però di una chiave abbastanza avanzata che necessità la conoscenza di molti termini botanici specifici.  
 
-Per le attività con i ragazzi, si suggerisce l'uso di chiavi semplificate. Con esse non sarà possibile riconoscere tutte le specie della flora italiana, ma solamente dei sottogruppi più o meno numerosi. In questa attività ci eserciteremo con la chiave [KeyToNature per le scuole: una guida interattiva ad alberi e arbusti](https://dryades.units.it/home/index.php?procedure=ext_key_home&key_id=3182&key_type=plants) che permette il riconoscimento di 357 specie di alberi e arbusti, con un'interfaccia semplificata. 
+Per le attività con i ragazzi, si suggerisce l'uso di chiavi semplificate. Con esse non sarà possibile riconoscere tutte le specie della flora italiana, ma solamente dei sottogruppi più o meno numerosi. In questa attività ci eserciteremo con la chiave [KeyToNature per le scuole: una guida interattiva ad alberi e arbusti](https://dryades.units.it/home/index.php?procedure=ext_key_home&key_id=3182&key_type=plants) che permette il riconoscimento di 357 specie di alberi e arbusti comuni in Italia, con un'interfaccia semplificata. 
 
 Un utile dizionario dei termini botanici (assieme ad una galleria affidabile di immagini di specie vegetali) è disponibile sull'ottimo sito Acta Plantarum: [https://www.actaplantarum.org/glossario/glossario.php](https://www.actaplantarum.org/glossario/glossario.php)  
 
 In questa attività dovremo:  
 1. Scegliere una specie legnosa. Possibilmente una di cui sia agevole l'osservazione di foglie e possibilmente fiori\frutti
 2. Aprire la chiave semplificate [KeyToNature per le scuole: una guida interattiva ad alberi e arbusti](https://dryades.units.it/home/index.php?procedure=ext_key_home&key_id=3182&key_type=plants)
-3. Tentare l'identificazione della specie scelta tramite chiavi dicotomiche
+3. Tentare l'identificazione della specie scelta tramite chiavi dicotomiche. Ovviamente può succedere di sbagliarsi. In tal caso, si torna allora al punto in cui si era in dubbio sull’opzione da scegliere e si prende l’altra.  
 4. Una volta arrivati al livello di specie, confrontare la soluzione suggerita con il cartellino della specie
 
 Occorre tenere conto che le chiavi dicotomiche contengono solo un subset delle specie esistenti, limitandosi solitamente alle sole specie locali o più comunemente coltivate. In un orto botanico potrebbero esserci specie rare e di altre regioni del pianeta, che come tali NON sono contenute nella chiave dicotomica scelta.  
