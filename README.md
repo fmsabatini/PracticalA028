@@ -13,3 +13,9 @@ PlantNet permette di:
 - Creare dati sulla posizione degli organismi vegetali che possono poi essere utilizzati dai ricercatori (_citizen science_)
 - Creare e gestire gruppi e progetti locali
 
+In questa attività dovremo:  
+1. Scaricare la app PlantNet
+
+ <a href="http://apple.co/2cMtWgu">
+  <img src="https://plantnet.org/wp-content/uploads/2017/06/Download_on_the_App_Store_Badge.svg_-768x228.png" alt="Apple" style="height:50px;">
+</a> 
