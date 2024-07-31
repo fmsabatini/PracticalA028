@@ -19,3 +19,12 @@ In questa attività dovremo:
  <a href="http://apple.co/2cMtWgu">
   <img src="https://plantnet.org/wp-content/uploads/2017/06/Download_on_the_App_Store_Badge.svg_-768x228.png" alt="Apple" style="height:50px;">
 </a> 
+
+
+ <a href="http://bit.ly/1K4D1eU">
+  <img src="https://plantnet.org/wp-content/uploads/2017/06/Get_it_on_Google_play.svg-2-300x88.png" alt="Android" style="height:50px;">
+</a> 
+
+ <a href="https://identify.plantnet.org/">
+  <img src="https://plantnet.org/wp-content/uploads/2017/08/identifyEN.png" alt="Online" style="height:50px;">
+</a> 
