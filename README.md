@@ -28,3 +28,12 @@ In questa attività dovremo:
  <a href="https://identify.plantnet.org/">
   <img src="https://plantnet.org/wp-content/uploads/2017/08/identifyEN.png" alt="Online" style="height:50px;">
 </a> 
+
+2. Familiarizzarsi con la app. Fare una prima osservazione, scattando una foto. Valutare criticamente le identificazioni suggerite (anche in funzione del cartellino della specie, se presente). Si suggerisce di tenere il GPS acceso. La georeferenziazione migliora sostanzialmente la qualità dell'identificazione. Se necessario cambiare la flora a cui PlantNet si riferisce (esempio: Flora Mondiale, Piante Utili, etc). Si suggerisce la flora 'Europa SudOrientale'  
+
+3. 
+
+2. Aprire la App, andare su 'Gruppi' e cercare il gruppo 'PF60/30 A028 Unibo' (o usare il link di invito sottostante)
+[https://identify.plantnet.org/it/groups/50096539593](https://identify.plantnet.org/it/groups/50096539593)
+
+3. 
